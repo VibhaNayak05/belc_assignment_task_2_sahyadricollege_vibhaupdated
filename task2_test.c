@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-// Tell the compiler to look into our other file for the function
 const char* get_crease(int n, int x);
 
 int main() {
